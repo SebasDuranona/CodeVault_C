@@ -3,8 +3,10 @@
 Welcome to my CodeVault_C repository. This repository houses various C projects that showcase my coding skills and knowledge in the C programming language with a focus on Cybersecurity concepts.
 
 ## Project List (Under Construction)
+
+- [RBACSim](RBACSim/): A Role-Based Access Control (RBAC) educational tool for exploring access control systems and IAM principles.
+
 <!--
-- [Project 1 Name](project1/): Brief description.
 - [Project 2 Name](project2/): Brief description.
 - [Project 3 Name](project3/): Brief description.
 -->
