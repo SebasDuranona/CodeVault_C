@@ -1,6 +1,6 @@
 # CodeVault_C
 
-Welcome to my CodeVault_C repository. This repository houses various C projects that showcase my coding skills and knowledge in the C programming language with a focus on Cybersecurity concepts.
+Welcome to my CodeVault_C repository. This repository houses various C projects that I am currently exploring.
 
 ## Project List (Under Construction)
 
